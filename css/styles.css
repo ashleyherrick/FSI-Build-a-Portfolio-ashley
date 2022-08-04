@@ -1,5 +1,5 @@
 body {
-    background-color: lightcoral;
+    background-color: rgb(240, 156, 156);
     color: darkslategrey;
     font-family: 'Trebuchet MS', sans-serif;
 }
@@ -10,10 +10,18 @@ h1 {
     text-align:center;
 }
 
+.center {
+    text-align: center;
+    background-color: rgb(162, 66, 84);
+
+}
+
+
 .myportfolio {
     font-size: 60px;
     color: whitesmoke
 }
+
 .contactme {
     text-align: center;
     color: whitesmoke
