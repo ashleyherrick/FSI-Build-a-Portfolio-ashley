@@ -1,4 +1,20 @@
 body {
-    background-color: black;
+    background-color: lightcoral;
+    color: darkslategrey;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+a {
     color: whitesmoke;
+}
+h1 {
+    text-align:center;
+}
+
+.myportfolio {
+    font-size: 60px;
+    color: whitesmoke
+}
+.contactme {
+    text-align: center;
+    color: whitesmoke
 }
