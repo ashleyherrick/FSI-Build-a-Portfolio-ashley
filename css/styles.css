@@ -10,16 +10,21 @@ h1 {
     text-align:center;
 }
 
+img {
+    width: auto;
+    height: 200px
+}
 .center {
     text-align: center;
     background-color: rgb(162, 66, 84);
+    border-radius: 20px;
 
 }
 
 
 .myportfolio {
     font-size: 60px;
-    color: whitesmoke
+    color: rgb(220, 206, 206)
 }
 
 .contactme {
