@@ -16,7 +16,8 @@ img {
     border-radius: 15px;
     text-align: center;
     border-style: solid;
-    border-color:rgb(220, 206, 206)
+    border-width: 2px;
+    border-color:rgb(220, 206, 206);
 }
 .center {
     text-align: center;
