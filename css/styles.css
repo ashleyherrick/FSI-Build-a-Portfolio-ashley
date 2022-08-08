@@ -12,7 +12,8 @@ h1 {
 
 img {
     width: auto;
-    height: 200px
+    height: 200px;
+    border-radius: 15px;
 }
 .center {
     text-align: center;
@@ -24,10 +25,10 @@ img {
 
 .myportfolio {
     font-size: 60px;
-    color: rgb(220, 206, 206)
+    color: rgb(220, 206, 206);
 }
 
 .contactme {
     text-align: center;
-    color: whitesmoke
+    color: whitesmoke;
 }
