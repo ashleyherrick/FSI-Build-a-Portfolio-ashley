@@ -12,14 +12,20 @@ h1 {
     text-align:center;
 }
 
-img {
- border-radius: 2px;
+.imgcenter img {
+ border-radius: 10px;
+ border-style: solid;
+ border-color:rgb(220, 206, 206);
+ border-width: 4px;
+ height: 300px;
+ width: auto;
+ cursor: none;
 }
 
 .imgcenter {
- display: flex;
- justify-content: center;
-}
+    display: flex;
+    justify-content: center;
+ }
 
 .center {
     text-align: center;
